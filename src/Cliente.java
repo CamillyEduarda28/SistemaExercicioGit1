@@ -1,4 +1,1 @@
-
-public class Cliente {
-
-}
+let nome = "";
